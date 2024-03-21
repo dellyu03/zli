@@ -19,9 +19,7 @@
 # Stacks
 
 ## Environment
-<img src="https://img.shields.io/badge/Visual studio Code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/Git Hub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/Visual studio Code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Git Hub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 
 
 ## Devleopment with..
