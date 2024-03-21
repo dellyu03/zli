@@ -1,0 +1,59 @@
+ul {
+    padding :0px;
+}
+
+li {
+    width: 190px;
+    height: 35px;
+}
+
+
+sidebar {
+    display: block;
+    width: 190px;
+    height: 100%;
+    background: rgb(78,78,77);
+    background: linear-gradient(0deg,rgba(154,154,154,0) rgba(78,78,77,1) 50%, rgba(107,107,107,0.38) 100%);
+    border-top-right-radius: 24px;
+    border-bottom-right-radius: 24px;
+}
+
+#profileCarrier{
+    height: 86px;
+}
+
+profileSection {
+    display: flex;
+    margin-left: 16px;
+    margin-bottom: 18px;
+}
+
+#profilePhoto{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+#userName {
+    font-size: 20px;
+    margin-bottom: 3px;
+}
+
+.colorMenu {
+    background-color: #717171;
+}
+
+introduce {
+    font-size : 12px;
+}
+
+li{
+    list-style: none;
+}
+
+.navSelector:hover{
+    cursor: pointer;
+    opacity: 60%;
+}
+
