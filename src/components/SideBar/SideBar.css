@@ -57,3 +57,10 @@ li{
     opacity: 60%;
 }
 
+#profilePhoto:hover {
+    cursor: pointer;
+}
+
+#userName:hover {
+    cursor: pointer;
+}
