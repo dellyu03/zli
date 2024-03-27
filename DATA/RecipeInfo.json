@@ -1,0 +1,21 @@
+{
+    "blueSapphire":{
+        "name" : "블루 사파이어",
+        "ingredients" : ["피치트리", "말리부", "블루 큐라소", "스윗 앤 사워 믹스", "스프라이트"],
+        "recipe" : {
+            "first" : "얼음으로  칵테일 잔 칠링",
+            "second" : "피치트리 15ml",
+            "third" : "말리부 15ml",
+            "fourth" : "블루 큐라소 15ml",
+            "fifth" : "스윗 앤 사워 믹스 15ml",
+            "sixth" : "shake",
+            "seventh" : "얼음 채운 잔에 따라준다.",
+            "eighth" : "스프라이트를 채워준다.",
+            "nineth" : "Stir"
+        },
+        "rate":3,
+        "tags": ["블루 큐라소", "푸른색", "예쁨", "달달한"],
+        "recipeVideo" : "https://www.youtube.com/shorts/E38U4SSH9sk"
+    }
+}
+
