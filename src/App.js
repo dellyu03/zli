@@ -1,24 +1,19 @@
 import logo from './logo.svg';
 import './App.css';
+import MainPage from './pages/MainPage/MainPage.js';
+import RecipePage from './pages/RecipePage/RecipePage.js';
+import {BrowserRouter, Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    //페이지 이동을 구현하는 코드 각 url별로 페이지 컴포넌트들을 연결해줌
+    <BrowserRouter>
+      <Routes>
+        <Route path = "/recipe" element = {<RecipePage/>}/>
+        <Route path = "/" element = {<MainPage/>}/>
+        {/* <Route path = "/tasting_note" element = {<TastingNote/>}/> */}
+      </Routes>
+    </BrowserRouter>
   );
 }
 

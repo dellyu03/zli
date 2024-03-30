@@ -11,7 +11,6 @@ export default function MainPage(){
                 <SearchBar/>
                 <div id = "SelectCard_container">
                     <SelectCard menuName = "Blue Sppyhere" imgSrc = "images/cocktail_img/blue spyhere.png" />
-                    
                 </div>
             </content>
         </body>
